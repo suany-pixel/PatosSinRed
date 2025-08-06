@@ -20,10 +20,11 @@ Este proyecto no tiene sentido... pero tampoco lo tiene el universo 🌌.
   
 ## 📁 Contenido del repositorio
 
-- `/frontend`: Interfaz HTML/CSS hermosa y colorida
-- `/backend`: Lógica que casi siempre compila
-- `/docs`: Planificación, ideas y sueños
-- `/tests`: Para que parezca que probamos el código
+- Interfaz HTML/CSS hermosa y colorida
+- Lógica que casi siempre compila
+- Planificación, ideas y sueños
+
+
 
 
 
